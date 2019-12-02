@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Compatibility
+type: script
+---
+<img src="{{site.baseurl}}/images/recogito.png"/>
+<img src="{{site.baseurl}}/images/fromthepage.png"/>
